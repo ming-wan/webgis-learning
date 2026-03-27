@@ -9,7 +9,6 @@
 
 - [x] Java + Tomcat + GeoServer 环境搭建
 - [x] 第一个模拟地图页面：[查看](https://ming-wan.github.io/webgis-learning/map.html)
-- [x] 第二个模拟地图页面：[查看](https://ming-wan.github.io/webgis-learning/map 2.html)
 - [x] GeoServer 安装成功，能预览 tiger-ny 图层
 
 ---
